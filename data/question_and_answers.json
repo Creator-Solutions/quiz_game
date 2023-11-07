@@ -1,0 +1,52 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Madrid", "Berlin"],
+      "correct_answer": "Paris"
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars"
+  },
+  {
+      "question": "What is the largest mammal on Earth?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correct_answer": "Blue Whale"
+  },
+  {
+      "question": "In which year did Christopher Columbus first reach the Americas?",
+      "options": ["1492", "1776", "1620", "1812"],
+      "correct_answer": "1492"
+  },
+  {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": ["J.K. Rowling", "Harper Lee", "George Orwell", "William Golding"],
+      "correct_answer": "Harper Lee"
+  },
+  {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Au", "Gl", "Ag"],
+      "correct_answer": "Au"
+  },
+  {
+      "question": "Which gas makes up the largest percentage of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+      "correct_answer": "Nitrogen"
+  },
+  {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Uranus"],
+      "correct_answer": "Jupiter"
+  },
+  {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "correct_answer": "Japan"
+  },
+  {
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "2"
+  }
+]
